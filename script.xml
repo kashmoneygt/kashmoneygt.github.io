@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="alice">Hello! This is Amazon returning your call. We are contacting the person with initials J W. Please stay on hold while we connect you to a representative.</Say>
+    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
